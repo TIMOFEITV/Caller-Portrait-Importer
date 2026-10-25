@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ScamWYF.TwitchControl
+build_property.ProjectDir = C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

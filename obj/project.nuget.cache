@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRB2Xk0C/JE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kityu_9z8uh6l\\Downloads\\ScamWYF-TwitchControl-source-v0.1.7-rc2\\ScamWYF.TwitchControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kityu_9z8uh6l\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\kityu_9z8uh6l\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
