@@ -1,7 +1,0 @@
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\bin\Release\net472\ScamWYF.TwitchControl.dll
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\bin\Release\net472\ScamWYF.TwitchControl.pdb
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\obj\Release\net472\ScamWYF.TwitchControl.csproj.AssemblyReference.cache
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\obj\Release\net472\ScamWYF.TwitchControl.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\obj\Release\net472\ScamWYF.TwitchControl.csproj.CoreCompileInputs.cache
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\obj\Release\net472\ScamWYF.TwitchControl.dll
-C:\Users\kityu_9z8uh6l\Downloads\ScamWYF-TwitchControl-source-v0.1.7-rc2\obj\Release\net472\ScamWYF.TwitchControl.pdb
